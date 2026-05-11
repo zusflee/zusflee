@@ -13,8 +13,7 @@
   &nbsp;
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL"/>
   &nbsp;
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub"/>
-  &nbsp;
+  <img height="40" src="https://cdn.simpleicons.org/github/white" title="GitHub"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code"/>
 </div>
 
